@@ -1,4 +1,4 @@
 # Profitable Apps
  DataQuest Guided Project: Analysis of dataset from the Apple and Google Store to determine profitable app profile.
  This project is about analysing data sets(about apps) from the Google Play store and the Apple Store. The company only builds apps that are free to download and install and the main source of revenue consists of in-app ads. The revenue is influenced by the number of people who use their apps. The first goal is to analyze data in order to help developers and the company what type of apps are likely to attract more users.
-Here's the link to the completed project : 
+Here's the link to the completed project : https://github.com/Nels04/Profitable-Apps/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb
